@@ -1,0 +1,27 @@
+
+#content h1
+{
+    text-align: center;
+}
+#content button
+{
+    display: grid;
+    margin: auto;
+}
+#questions
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+#questions p
+{
+    padding-left: 5em;
+}
+#questions textarea
+{
+    width: 50%;
+}
+#answer h1
+{
+    text-align: center;
+}
